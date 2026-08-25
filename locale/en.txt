@@ -3,6 +3,7 @@
 ## Media
 
 ### Title
+model_13BD02FE_3BBA_39DF_41BC_3D96E20C93C3.label = 3D Model
 panorama_12900233_3BFA_1865_41CB_E329E339BDFD.label = Forest
 
 ## Tour
